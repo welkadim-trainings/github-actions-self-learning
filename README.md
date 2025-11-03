@@ -69,5 +69,6 @@ For this workshop you need the following:
 Find common terminology for reference [here](./CheatSheet.md)
 
 ## Custom updates, second update
+## Custom updates, second update
 
 
